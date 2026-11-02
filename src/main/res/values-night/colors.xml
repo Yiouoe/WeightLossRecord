@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#121511</color>
+    <color name="paper_deep">#1B2019</color>
+    <color name="surface">#1D221B</color>
+    <color name="ink">#F0EBDD</color>
+    <color name="ink_soft">#AFB4A7</color>
+    <color name="ink_faint">#7D8377</color>
+    <color name="line">#343B31</color>
+
+    <color name="forest">#8BC4A7</color>
+    <color name="forest_dark">#6FA98B</color>
+    <color name="forest_soft">#23372C</color>
+    <color name="on_forest">#102017</color>
+
+    <color name="clay">#E1906E</color>
+    <color name="clay_soft">#3C261E</color>
+    <color name="on_clay">#1B211C</color>
+
+    <color name="gold">#D2AF72</color>
+    <color name="gold_soft">#3A3020</color>
+
+    <color name="chart_line">#8BC4A7</color>
+    <color name="chart_grid">#4D343B31</color>
+    <color name="chart_goal">#E1906E</color>
+    <color name="chart_tooltip">#1D221B</color>
+    <color name="chart_tooltip_text">#F0EBDD</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
